@@ -31,7 +31,7 @@ public class QuickSort {
     public static void main(String[] args) {
         try {
             
-            BufferedReader br = new BufferedReader(new FileReader("c:\\ProgramasJava3C25\\AlgoritmosDeOrdenamiento\\QuickSort\\entrada_quicksort.txt"));
+            BufferedReader br = new BufferedReader(new FileReader("entrada_quicksort.txt"));
             String linea = br.readLine();
             br.close();
 
